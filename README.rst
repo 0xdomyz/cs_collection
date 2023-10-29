@@ -1,4 +1,2 @@
-collection_template
+C# collection
 ===================
-
-template for collection repos
